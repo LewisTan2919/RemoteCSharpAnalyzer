@@ -1,0 +1,13 @@
+
+  Commandline args are:
+  
+  current directory: D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\RunDependency\bin\Debug
+
+  Please enter path and file(s) to analyze
+
+
+
+  Dependency Analysis: 
+----------------------
+  Dependency Table:
+ -------------------

@@ -1,0 +1,23 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\TypeTable\bin\Debug\TypeTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\TypeTable\bin\Debug\TypeTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\TypeTable\bin\Debug\TypeTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\TypeTable\obj\Debug\TypeTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\TypeTable\obj\Debug\TypeTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\bin\Debug\TypeTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\bin\Debug\TypeTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\bin\Debug\TypeTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.pdb
+D:\Project4 XIAO TAN\TypeTable\bin\Debug\TypeTable.dll.config
+D:\Project4 XIAO TAN\TypeTable\bin\Debug\TypeTable.dll
+D:\Project4 XIAO TAN\TypeTable\bin\Debug\TypeTable.pdb
+D:\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.dll
+D:\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\bin\Debug\Common.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\bin\Debug\Common.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TypeTable\obj\Debug\TypeTable.csproj.CopyComplete

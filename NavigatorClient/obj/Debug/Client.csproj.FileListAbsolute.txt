@@ -1,0 +1,110 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\Client.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\CodePopUp.g.cs
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\MainWindow.g.cs
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\App.g.cs
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\NavigatorClient.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\NavigatorClient.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\NavigatorClient.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\NavigatorClient.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\Comm.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\Comm.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\CodePopUp.baml
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\MainWindow.baml
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\Client.csproj.GenerateResource.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\NavigatorClient\obj\Debug\Client.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.g.cs
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.g.cs
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\App.g.cs
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.baml
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.baml
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.GenerateResource.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.pdb
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.pdb
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.dll
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.dll
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.pdb
+D:\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.pdb
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.g.cs
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.g.cs
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\App.g.cs
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.baml
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.baml
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CopyComplete
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.exe
+D:\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.pdb
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.pdb
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.dll
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.pdb
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csprojAssemblyReference.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.g.cs
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.g.cs
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\App.g.cs
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.baml
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.baml
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.GenerateResource.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CopyComplete
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.exe
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.dll
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.dll
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Comm.pdb
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\bin\Debug\Navigate.pdb
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\App.g.cs
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\Client.csproj.CopyComplete
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\NavigatorClient\obj\Debug\NavigatorClient.pdb

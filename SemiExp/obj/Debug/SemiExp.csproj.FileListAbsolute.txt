@@ -1,0 +1,33 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\bin\Debug\SemiExp.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\bin\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\bin\Debug\SemiExp.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\obj\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\SemiExp\obj\Debug\SemiExp.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\bin\Debug\SemiExp.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\bin\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\bin\Debug\SemiExp.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.pdb
+D:\Project4 XIAO TAN\SemiExp\bin\Debug\SemiExp.dll.config
+D:\Project4 XIAO TAN\SemiExp\bin\Debug\SemiExp.dll
+D:\Project4 XIAO TAN\SemiExp\bin\Debug\SemiExp.pdb
+D:\Project4 XIAO TAN\SemiExp\bin\Debug\Toker.dll
+D:\Project4 XIAO TAN\SemiExp\bin\Debug\Toker.pdb
+D:\Project4 XIAO TAN\SemiExp\bin\Debug\Toker.dll.config
+D:\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+D:\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.dll
+D:\Project4 XIAO TAN\SemiExp\obj\Debug\SemiExp.pdb

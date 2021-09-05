@@ -1,0 +1,29 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\FileMgr\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\FileMgr\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\FileMgr\obj\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\FileMgr\obj\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.pdb
+D:\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.dll
+D:\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.pdb
+D:\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.dll
+D:\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.dll
+D:\资料\资料\计算机\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.pdb
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.dll
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\bin\Debug\Navigate.pdb
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.dll
+C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\FileMgr\obj\Debug\Navigate.pdb

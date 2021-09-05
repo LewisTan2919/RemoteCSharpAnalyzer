@@ -1,0 +1,23 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\bin\Debug\DependencyTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\bin\Debug\DependencyTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\bin\Debug\DependencyTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\obj\Debug\DependencyTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\obj\Debug\DependencyTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\DependencyTable\obj\Debug\DependencyTable.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\bin\Debug\DependencyTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\bin\Debug\DependencyTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\bin\Debug\DependencyTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.pdb
+D:\Project4 XIAO TAN\DependencyTable\bin\Debug\DependencyTable.dll.config
+D:\Project4 XIAO TAN\DependencyTable\bin\Debug\DependencyTable.dll
+D:\Project4 XIAO TAN\DependencyTable\bin\Debug\DependencyTable.pdb
+D:\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.dll
+D:\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\bin\Debug\Common.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\bin\Debug\Common.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DependencyTable\obj\Debug\DependencyTable.csprojAssemblyReference.cache

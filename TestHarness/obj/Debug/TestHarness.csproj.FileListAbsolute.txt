@@ -1,0 +1,12 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TestHarness\bin\Debug\TestHarness.exe.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TestHarness\bin\Debug\TestHarness.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TestHarness\bin\Debug\TestHarness.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TestHarness\obj\Debug\TestHarness.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\TestHarness\obj\Debug\TestHarness.pdb
+D:\Project4 XIAO TAN\TestHarness\bin\Debug\TestHarness.exe.config
+D:\Project4 XIAO TAN\TestHarness\bin\Debug\TestHarness.exe
+D:\Project4 XIAO TAN\TestHarness\bin\Debug\TestHarness.pdb
+D:\Project4 XIAO TAN\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\TestHarness\obj\Debug\TestHarness.exe
+D:\Project4 XIAO TAN\TestHarness\obj\Debug\TestHarness.pdb

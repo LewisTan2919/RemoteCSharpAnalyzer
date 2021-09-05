@@ -1,0 +1,27 @@
+C:\su\Repository\CSharp\CsGraph\CsNode\bin\Debug\CsNode.exe
+C:\su\Repository\CSharp\CsGraph\CsNode\bin\Debug\CsNode.pdb
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsNode.exe
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsNode.pdb
+C:\su\Repository\CSharp\CsGraph\CsNode\obj\Debug\CsGraph.csprojResolveAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\CsGraph\CsGraph\bin\Debug\CsGraph.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\CsGraph\CsGraph\bin\Debug\CsGraph.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\CsGraph\CsGraph\obj\Debug\CsGraph.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\CsGraph.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\CsGraph.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.pdb
+D:\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\CsGraph.exe
+D:\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\CsGraph.pdb
+D:\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.exe
+D:\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\CsGraph.exe.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\Common.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\bin\Debug\Common.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\CsGraph\CsGraph\obj\Debug\CsGraph.csproj.CopyComplete

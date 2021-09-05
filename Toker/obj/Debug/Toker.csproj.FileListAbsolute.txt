@@ -1,0 +1,27 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\obj\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\obj\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Toker\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Toker\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Toker\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Toker\obj\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Toker\obj\Debug\Toker.pdb
+D:\Project4 XIAO TAN\Toker\bin\Debug\Toker.dll.config
+D:\Project4 XIAO TAN\Toker\bin\Debug\Toker.dll
+D:\Project4 XIAO TAN\Toker\bin\Debug\Toker.pdb
+D:\Project4 XIAO TAN\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\Toker\obj\Debug\Toker.dll
+D:\Project4 XIAO TAN\Toker\obj\Debug\Toker.pdb
+D:\Project4 XIAO TAN\Toker\obj\Debug\Toker.csprojAssemblyReference.cache

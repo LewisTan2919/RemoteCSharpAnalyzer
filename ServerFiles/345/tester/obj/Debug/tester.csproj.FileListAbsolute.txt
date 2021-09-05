@@ -1,0 +1,6 @@
+D:\资料\资料\计算机\Software Architecture\Project_3\Project3 XIAO TAN\tester\bin\Debug\tester.dll
+D:\资料\资料\计算机\Software Architecture\Project_3\Project3 XIAO TAN\tester\bin\Debug\tester.pdb
+D:\资料\资料\计算机\Software Architecture\Project_3\Project3 XIAO TAN\tester\obj\Debug\tester.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project_3\Project3 XIAO TAN\tester\obj\Debug\tester.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project_3\Project3 XIAO TAN\tester\obj\Debug\tester.dll
+D:\资料\资料\计算机\Software Architecture\Project_3\Project3 XIAO TAN\tester\obj\Debug\tester.pdb

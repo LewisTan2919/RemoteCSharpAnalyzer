@@ -1,0 +1,38 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\DemoReqs.exe.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\DemoReqs.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\DemoReqs.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\Navigate.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\TestHarness.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\Navigate.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\SemiExp.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\SemiExp.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\TestHarness.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\TestHarness.exe.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.exe
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.pdb
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\DemoReqs.exe.config
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\DemoReqs.exe
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\DemoReqs.pdb
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\Navigate.dll
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\SemiExp.dll
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\TestHarness.exe
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\Toker.dll
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\Navigate.pdb
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\SemiExp.pdb
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\SemiExp.dll.config
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\TestHarness.pdb
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\TestHarness.exe.config
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\Toker.pdb
+D:\Project4 XIAO TAN\DemoReqs\bin\Debug\Toker.dll.config
+D:\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.csproj.CopyComplete
+D:\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.exe
+D:\Project4 XIAO TAN\DemoReqs\obj\Debug\DemoReqs.pdb

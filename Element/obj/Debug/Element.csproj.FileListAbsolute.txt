@@ -1,0 +1,17 @@
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Element\bin\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Element\bin\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Element\obj\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Element\obj\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Element\obj\Debug\Element.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Element\bin\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Element\bin\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Element\obj\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Element\obj\Debug\Element.pdb
+D:\Project4 XIAO TAN\Element\bin\Debug\Element.dll
+D:\Project4 XIAO TAN\Element\bin\Debug\Element.pdb
+D:\Project4 XIAO TAN\Element\obj\Debug\Element.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\Element\obj\Debug\Element.dll
+D:\Project4 XIAO TAN\Element\obj\Debug\Element.pdb

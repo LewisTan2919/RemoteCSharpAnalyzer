@@ -1,0 +1,27 @@
+
+  Dependency Analysis
+ =====================
+
+  Commandline args are:
+    ../../../tester  test1.cs  test2.cs  test3.cs  test4.cs  test5.cs  test6.cs  test7.cs  test8.cs
+  current directory: D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\DemoExecutive\bin\Debug
+
+  invalid path "D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\tester"
+  Type Analysis
+--------------- 
+category         name                         file                       
+--------         ----                         ----                        
+  TypeTable Contents: 
+-------------------- - 
+
+  Dependency Analysis: 
+----------------------
+
+  building dependency graph
+--------------------------- 
+  Dependency Table:
+ -------------------
+
+  Strong Components: 
+--------------------
+

@@ -1,0 +1,123 @@
+
+  Dependency Analysis
+ =====================
+
+  Commandline args are:
+    ../../../ServerFiles/345\  test1.cs  345\  test2.cs  345\  test3.cs  345\  test4.cs  345\  test5.cs  345\  test6.cs  345\  test7.cs  345\  test8.cs
+  current directory: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\Server\bin\Debug
+
+  Type Analysis
+--------------- 
+category         name                         file                       
+--------         ----                         ----                        
+namespace tester1   test1.cs  
+class     class1    test1.cs  
+struct    struct1   test1.cs  
+
+namespace tester2   test2.cs  
+class     class2    test2.cs  
+
+namespace tester3   test3.cs  
+interface interface1test3.cs  
+class     class3    test3.cs  
+
+namespace tester4   test4.cs  
+class     class4    test4.cs  
+
+namespace tester5   test5.cs  
+class     class5    test5.cs  
+
+namespace tester6   test6.cs  
+class     class6    test6.cs  
+
+namespace tester7   test7.cs  
+class     class7    test7.cs  
+
+namespace tester8   test8.cs  
+class     class8    test8.cs  
+delegate  void      test8.cs  
+
+  TypeTable Contents: 
+-------------------- - 
+  class1
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test1.cs
+    namespace:  tester1
+  struct1
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test1.cs
+    namespace:  tester1
+  class2
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test2.cs
+    namespace:  tester2
+  interface1
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test3.cs
+    namespace:  tester3
+  class3
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test3.cs
+    namespace:  tester3
+  class4
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test4.cs
+    namespace:  tester4
+  class5
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test5.cs
+    namespace:  tester5
+  class6
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test6.cs
+    namespace:  tester6
+  class7
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test7.cs
+    namespace:  tester7
+  class8
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test8.cs
+    namespace:  tester8
+  void
+         file: C:\Files\files\files\Computer Science\681 Software Architecture\Project 4\Project4 XIAO TAN\ServerFiles\345\test8.cs
+    namespace:  tester8
+
+  Dependency Analysis: 
+----------------------
+  test1.cs
+    test4.cs
+  test2.cs
+    test1.cs
+  test3.cs
+    test2.cs
+  test4.cs
+    test3.cs
+  test5.cs
+    test4.cstest7.cs
+  test6.cs
+    test5.cs
+  test7.cs
+    test6.cs
+  test8.cs
+
+  building dependency graph
+--------------------------- 
+  Dependency Table:
+ -------------------
+  test1.cs
+    test4.cs
+  test2.cs
+    test1.cs
+  test3.cs
+    test2.cs
+  test4.cs
+    test3.cs
+  test5.cs
+    test4.cs
+    test7.cs
+  test6.cs
+    test5.cs
+  test7.cs
+    test6.cs
+  test8.cs
+
+  Strong Components: 
+--------------------
+  component 0
+    test2.cstest3.cstest4.cstest1.cs
+  component 1
+    test6.cstest7.cstest5.cs
+  component 2
+    test8.cs
+

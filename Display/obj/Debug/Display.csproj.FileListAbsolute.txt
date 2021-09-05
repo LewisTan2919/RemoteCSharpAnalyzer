@@ -1,0 +1,45 @@
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\bin\Debug\Display.dll.config
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\bin\Debug\Display.dll
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\bin\Debug\Display.pdb
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\obj\Debug\Display.dll
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Display\obj\Debug\Display.pdb
+C:\su\temp\Parser\Display\bin\Debug\Display.dll.config
+C:\su\temp\Parser\Display\bin\Debug\Display.dll
+C:\su\temp\Parser\Display\bin\Debug\Display.pdb
+C:\su\temp\Parser\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\su\temp\Parser\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+C:\su\temp\Parser\Display\obj\Debug\Display.dll
+C:\su\temp\Parser\Display\obj\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\bin\Debug\Display.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\bin\Debug\Display.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\bin\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\bin\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\bin\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\obj\Debug\Display.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\obj\Debug\Display.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\obj\Debug\Display.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Display\obj\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Display.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Display.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\obj\Debug\Display.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\obj\Debug\Display.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\obj\Debug\Display.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\obj\Debug\Display.pdb
+D:\Project4 XIAO TAN\Display\bin\Debug\Display.dll.config
+D:\Project4 XIAO TAN\Display\bin\Debug\Display.dll
+D:\Project4 XIAO TAN\Display\bin\Debug\Display.pdb
+D:\Project4 XIAO TAN\Display\bin\Debug\Element.dll
+D:\Project4 XIAO TAN\Display\bin\Debug\Element.pdb
+D:\Project4 XIAO TAN\Display\obj\Debug\Display.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\Display\obj\Debug\Display.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\Display\obj\Debug\Display.csproj.CopyComplete
+D:\Project4 XIAO TAN\Display\obj\Debug\Display.dll
+D:\Project4 XIAO TAN\Display\obj\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Common.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Display\bin\Debug\Common.pdb

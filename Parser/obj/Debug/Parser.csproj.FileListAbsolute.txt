@@ -1,0 +1,128 @@
+C:\su\CSE681\code\Project1HelpSu09\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Project1HelpSu09\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\Parser.pdb
+C:\su\CSE681\code\Parser\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Parser\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Parser\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Parser\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Parser\Parser\obj\Debug\Parser.pdb
+C:\su\CSE681\code\Parser-Fall11\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Parser-Fall11\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+C:\Users\James\Desktop\NewParser\NewParser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\NewParser\NewParser\Parser\bin\Debug\Parser.exe
+C:\Users\James\Desktop\NewParser\NewParser\Parser\bin\Debug\Parser.pdb
+C:\Users\James\Desktop\NewParser\NewParser\Parser\obj\Debug\Parser.exe
+C:\Users\James\Desktop\NewParser\NewParser\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\NewParser\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\NewParser\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\bin\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\bin\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Parser.pdb
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Display.dll
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Display.pdb
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\obj\Debug\Parser.pdb
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Display.dll.config
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Parser.exe.config
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Parser.exe
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\obj\Debug\Parser.exe
+C:\su\temp\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\su\temp\Parser\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\su\temp\Parser\Parser\bin\Debug\Parser.exe.config
+C:\su\temp\Parser\Parser\bin\Debug\Parser.exe
+C:\su\temp\Parser\Parser\bin\Debug\Parser.pdb
+C:\su\temp\Parser\Parser\bin\Debug\Display.dll
+C:\su\temp\Parser\Parser\bin\Debug\Display.pdb
+C:\su\temp\Parser\Parser\bin\Debug\Display.dll.config
+C:\su\temp\Parser\Parser\obj\Debug\Parser.exe
+C:\su\temp\Parser\Parser\obj\Debug\Parser.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Parser.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Parser.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Parser.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\DependencyTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Display.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\TypeTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\DependencyTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\DependencyTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Display.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\SemiExp.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\SemiExp.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\TypeTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\bin\Debug\TypeTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\obj\Debug\Parser.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\obj\Debug\Parser.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project3\Parser\obj\Debug\Parser.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Parser.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Parser.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Parser.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\DependencyTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Display.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Element.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\SemiExp.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Toker.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\TypeTable.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\DependencyTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\DependencyTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Display.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Display.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Element.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\SemiExp.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\SemiExp.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Toker.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Toker.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\TypeTable.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\TypeTable.dll.config
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\obj\Debug\Parser.csproj.CopyComplete
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\obj\Debug\Parser.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\obj\Debug\Parser.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\Parser.dll.config
+D:\Project4 XIAO TAN\Parser\bin\Debug\Parser.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\Parser.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\DependencyTable.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\Display.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\Element.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\SemiExp.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\Toker.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\TypeTable.dll
+D:\Project4 XIAO TAN\Parser\bin\Debug\DependencyTable.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\DependencyTable.dll.config
+D:\Project4 XIAO TAN\Parser\bin\Debug\Display.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\Display.dll.config
+D:\Project4 XIAO TAN\Parser\bin\Debug\Element.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\SemiExp.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\SemiExp.dll.config
+D:\Project4 XIAO TAN\Parser\bin\Debug\Toker.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\Toker.dll.config
+D:\Project4 XIAO TAN\Parser\bin\Debug\TypeTable.pdb
+D:\Project4 XIAO TAN\Parser\bin\Debug\TypeTable.dll.config
+D:\Project4 XIAO TAN\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+D:\Project4 XIAO TAN\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+D:\Project4 XIAO TAN\Parser\obj\Debug\Parser.csproj.CopyComplete
+D:\Project4 XIAO TAN\Parser\obj\Debug\Parser.dll
+D:\Project4 XIAO TAN\Parser\obj\Debug\Parser.pdb
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Common.dll
+D:\资料\资料\计算机\Software Architecture\Project 4\Project4 XIAO TAN\Parser\bin\Debug\Common.pdb
